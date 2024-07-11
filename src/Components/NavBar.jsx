@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import {Container , Navbar ,Nav} from "react-bootstrap";
 export default function NavBar() {
+
   return (
     <Navbar expand="lg"  className="my-5 bg-c-nav fixed-top">
         <Container fluid>
@@ -15,7 +16,7 @@ export default function NavBar() {
                     </Link>
                     <Link className="nav-link fw-bold" to="/aboutpage">
                     <span>
-                        <i className="fa-solid fa-user"></i>
+                        <i className="fa-solid fa-user "></i>
                         About
                         </span>
                     </Link>

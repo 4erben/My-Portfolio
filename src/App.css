@@ -8,7 +8,9 @@
   --background-color : #001220;
 }
 
-
+.max-char{
+  max-width: 1ch;
+}
 
 *{
   margin: 0;

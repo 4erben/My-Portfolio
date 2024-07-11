@@ -8,6 +8,7 @@ import academy from "../assets/projects/academy.jpg";
 import admin from "../assets/projects/admin-panel.jpg";
 import mabna from "../assets/projects/mabna.png";
 import companyPortfolio from "../assets/projects/company-portfolio.jpg";
+import waqf from  "../assets/projects/waqf.jpg";
 
 
 const projects = [
@@ -73,6 +74,13 @@ const projects = [
         github:"https://github.com/4erben/Alda3mPortfolio",
         demo:"https://alda3m-portfolio.vercel.app/",
         img:companyPortfolio
+    },
+    {
+        no:10,
+        title:"Greeting Cards",
+        github:"https://github.com/4erben/CanvasWaqfg",
+        demo:"https://canvas-waqfg.vercel.app/",
+        img:waqf
     },
     
 ];

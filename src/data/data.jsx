@@ -50,7 +50,7 @@ const projects = [
         no:6,
         title:"Football Academy",
         github:"https://github.com/4erben/geek-project",
-        demo:"https://geekalertsapp.netlify.app/",
+        demo:"https://football-academy-virid.vercel.app/",
         img:academy
     },
     {

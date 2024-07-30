@@ -9,7 +9,7 @@ import AOS from "aos";
 
 
 export default function HomePage() {
-  const whatsappNumber = "01279828369";
+  const whatsappNumber = "201279828369";
   const gmailAddress = "mahmoud.n.elsherbeny@gmail.com";
   useEffect(() => {
     AOS.init({
